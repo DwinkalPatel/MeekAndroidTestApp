@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859600142051",
+    "project_id": "meektestapp",
+    "storage_bucket": "meektestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859600142051:android:5d31595aea050208970fd6",
+        "android_client_info": {
+          "package_name": "com.example.meektestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859600142051-06g1onb6d9s33cv2dhmqe54hj5avpavo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQF2AEsYbTGts0ow_e_AazA5wuBoyrfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859600142051-06g1onb6d9s33cv2dhmqe54hj5avpavo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

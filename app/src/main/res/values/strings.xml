@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MeekTestApp</string>
+    <string name="tagline">My Entrepreneurial Education Kickstart</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="temp_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your Password?</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in_now">Log in Now!</string>
+    <string name="login">Login!</string>
+    <string name="login_text">Login</string>
+    <string name="new_user">New User?</string>
+    <string name="join_now">Join Now!</string>
+    <string name="facebook_app_id">175158114548047</string>
+    <string name="fb_login_protocol_scheme">fb175158114548047</string>
+
+</resources>
